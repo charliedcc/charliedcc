@@ -1,4 +1,4 @@
-[![Code War](https://codewar.dev/api/svg?users=karpathy,torvalds,jasonqsong,charliedcc,stainlu&range=3m)](https://codewar.dev/?user=&targets=karpathy,torvalds,jasonqsong,charliedcc,stainlu&range=3m)
+[![Code War](https://codewar.dev/api/svg?users=jasonqsong,stainlu,charliedcc,garrytan,bcherny&range=3m)](https://codewar.dev/?user=&targets=jasonqsong,stainlu,charliedcc,garrytan,bcherny&range=3m)
 <!--
 **charliedcc/charliedcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
